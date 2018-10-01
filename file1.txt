@@ -1,6 +1,2 @@
-new branch: text text
-
-develop: text_dev
-dev: aasdasd
-
-new text
+new branch: text1 text1
+new text for new branch
